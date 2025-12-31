@@ -1,0 +1,13 @@
+fastapi>=0.100.0
+pydantic>=2.0.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-huggingface>=0.0.1
+uvicorn[standard]
+PyPDF2
+faiss-cpu
+python-dotenv
+huggingface_hub
+sentence-transformers
+python-multipart
+numpy>=1.26.0
