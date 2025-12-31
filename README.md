@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rag-Bot
 
 A full-stack RAG application with Admin PDF upload and User Chat.
@@ -43,3 +44,6 @@ A full-stack RAG application with Admin PDF upload and User Chat.
 - **Frontend**: Next.js 14, Tailwind, Supabase Auth.
 - **Backend**: FastAPI, LangChain, FAISS.
 - **Storage**: Local `backend/data` (extensible to Supabase Storage).
+=======
+# rag-bot
+>>>>>>> 9e649ffaa4a34cacb3de919be0977c872bc0e809
